@@ -1,2 +1,1 @@
-# go-app
-go-app with bazel 
+# go-bazel-repo
